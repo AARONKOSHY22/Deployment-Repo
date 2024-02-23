@@ -33,4 +33,4 @@ st.text('')
 st.text('')
 st.markdown(
     '`Create by` [AaronJK](https://github.com/AARONKOSHY22) | \
-         `Code:` [GitHub](https://intel-course-deployment-demo-1.streamlit.app/)')
+         `Code:` [GitHub](https://github.com/AARONKOSHY22/Deployment-Repo/blob/main/app.py)')
